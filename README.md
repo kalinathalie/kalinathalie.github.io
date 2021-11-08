@@ -1,2 +1,2 @@
 # kalinathalie.github.io
-My personal blog for post random information
+Personal blog about Infosec, CTF and other things, just click here https://kalinathalie.github.io/
